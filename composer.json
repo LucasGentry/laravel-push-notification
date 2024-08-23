@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.*|^6.0|^7.0|^8.0",
+        "illuminate/support": "4.*|^6.0|^7.0|^8.0|^9.52.16",
         "sly/notification-pusher": "dev-php8-compatibility"
     },
     "autoload": {
